@@ -165,7 +165,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"number\": {{$randomInt}},\r\n    \"name\": \"{{$randomLoremWord}}\",\r\n    \"description\": \"{{$randomLoremText}}\"\r\n}",
+					"raw": "{\r\n    \"number\": {{$randomInt}},\r\n    \"name\": \"test par defaut\",\r\n    \"description\": \"test par defaut\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
